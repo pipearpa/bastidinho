@@ -1,0 +1,16 @@
+/*
+primary: #2192FF
+secundary: #38E54D
+light:#9CFF2E
+info:#FDFF00
+*/
+
+.bg-primary{
+    background-color: #2192FF;
+}
+.text-light{
+    color:#9CFF2E ;
+}
+.text-center{
+    text-align: center;
+}
